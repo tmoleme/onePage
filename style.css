@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.home {
+    background-image: url('./imgs/pexels-abdullah-ghatasheh-1631678.jpg');
+    width: fit-content;
+    height: fit-content;
+    background: no-repeat;
+}
+
+.countdown {
+    color: rgb(39, 36, 36);
+      display: flex;
+      /* transform: scale(2); */
+  }
+
+  h1 {
+    font-weight: normal;
+    font-size: 60px;
+    color: rgb(29, 27, 27);
+    /* margin: -150px 0 40px; */
+    font-family:'Poppins';
+}
+
+h2 {
+  font: weight 600px;
+  color: rgb(50, 45, 45);
+  font-family:'Poppins';
+
+}
